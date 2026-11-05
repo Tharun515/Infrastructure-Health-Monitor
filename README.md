@@ -20,7 +20,7 @@ Python 3, `psutil`, operating-system utilities, TCP sockets, JSON, and Python lo
 
 ```bash
 git clone <your-github-repository-url>
-cd kyndryl-infrastructure-health-monitor
+cd Infrastructure-health-monitor
 ```
 
 ### 2. Create a virtual environment (recommended)
